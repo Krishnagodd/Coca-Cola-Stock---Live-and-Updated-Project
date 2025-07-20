@@ -3,7 +3,7 @@
 This project analyzes Coca-Cola's stock performance using machine learning and financial data analysis techniques. The goal is to visualize trends, forecast prices, simulate investment strategies, and provide a user-friendly dashboard for insights.
 
 ## Dataset used
--https://drive.google.com/drive/folders/19oBqp11Af9MDTz8ODGcmv7_Nj_L9tLNp
+- https://drive.google.com/drive/folders/19oBqp11Af9MDTz8ODGcmv7_Nj_L9tLNp
 ## 📌 Objectives
 - Analyze Coca-Cola's historical stock data
 - Predict future stock trends using ML models
